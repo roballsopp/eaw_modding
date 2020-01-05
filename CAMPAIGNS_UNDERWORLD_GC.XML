@@ -3051,6 +3051,109 @@
 
 
 
+		        <!-- AlzocIII Space Forces -->
+        <Starting_Forces> Rebel, AlzocIII, Rebel_Star_Base_2 </Starting_Forces>
+        <Starting_Forces> Rebel, AlzocIII, Rebel_X-Wing_Squadron </Starting_Forces>
+        <Starting_Forces> Rebel, AlzocIII, Nebulon_B_Frigate </Starting_Forces>
+        <!-- AlzocIII Land Forces -->
+        <Starting_Forces> Rebel, AlzocIII, R_Ground_Barracks </Starting_Forces>
+        <Starting_Forces> Rebel, AlzocIII, Rebel_Ground_Mining_Facility</Starting_Forces>
+        <Starting_Forces> Rebel, AlzocIII, Rebel_Infantry_Squad </Starting_Forces>
+        <Starting_Forces> Rebel, AlzocIII, Rebel_Light_Tank_Brigade </Starting_Forces>
+        
+        <!-- Bothawui Space Forces -->
+        <Starting_Forces> Rebel, Bothawui, Rebel_Star_Base_2 </Starting_Forces>
+        <Starting_Forces> Rebel, Bothawui, Rebel_X-Wing_Squadron </Starting_Forces>
+        <Starting_Forces> Rebel, Bothawui, Nebulon_B_Frigate </Starting_Forces>
+        <!-- Bothawui Land Forces -->
+        <Starting_Forces> Rebel, Bothawui, R_Ground_Barracks </Starting_Forces>
+        <Starting_Forces> Rebel, Bothawui, Rebel_Ground_Mining_Facility</Starting_Forces>
+        <Starting_Forces> Rebel, Bothawui, Rebel_Infantry_Squad </Starting_Forces>
+        <Starting_Forces> Rebel, Bothawui, Rebel_Light_Tank_Brigade </Starting_Forces>
+        
+        <!-- Geonosis Space Forces -->
+        <Starting_Forces> Rebel, Geonosis, Rebel_Star_Base_2 </Starting_Forces>
+        <Starting_Forces> Rebel, Geonosis, Rebel_X-Wing_Squadron </Starting_Forces>
+        <Starting_Forces> Rebel, Geonosis, Corellian_Corvette </Starting_Forces>
+        <!-- Geonosis Land Forces -->
+        <Starting_Forces> Rebel, Geonosis, R_Ground_Barracks </Starting_Forces>
+        <Starting_Forces> Rebel, Geonosis, Rebel_Ground_Mining_Facility</Starting_Forces>
+        <Starting_Forces> Rebel, Geonosis, Rebel_Infantry_Squad </Starting_Forces>
+        <Starting_Forces> Rebel, Geonosis, Rebel_Light_Tank_Brigade </Starting_Forces>
+
+        <!-- Hypori Space Forces -->
+        <Starting_Forces> Rebel, Hypori, Rebel_Star_Base_5 </Starting_Forces>
+        <Starting_Forces> Rebel, Hypori, Rebel_X-Wing_Squadron </Starting_Forces>
+        <Starting_Forces> Rebel, Hypori, Corellian_Corvette </Starting_Forces>
+        <Starting_Forces> Rebel, Hypori, Nebulon_B_Frigate </Starting_Forces>
+        <!-- Hypori Land Forces -->
+        <Starting_Forces> Rebel, Hypori, R_Ground_Barracks </Starting_Forces>
+        <Starting_Forces> Rebel, Hypori, Rebel_Ground_Mining_Facility</Starting_Forces>
+        <Starting_Forces> Rebel, Hypori, Rebel_Infantry_Squad </Starting_Forces>
+        <Starting_Forces> Rebel, Hypori, Rebel_Light_Tank_Brigade </Starting_Forces>
+        
+        <!-- Vergesso Asteroids Space Forces -->
+        <Starting_Forces> Rebel, VergessoAsteroids, Rebel_Star_Base_3 </Starting_Forces>
+        <Starting_Forces> Rebel, VergessoAsteroids, Rebel_X-Wing_Squadron </Starting_Forces>
+        <Starting_Forces> Rebel, VergessoAsteroids, Nebulon_B_Frigate </Starting_Forces>
+        
+        <!-- Mandalore Space Forces -->
+        <Starting_Forces> Rebel, Mandalore, Rebel_Star_Base_2 </Starting_Forces>
+        <Starting_Forces> Rebel, Mandalore, Rebel_X-Wing_Squadron </Starting_Forces>
+        <Starting_Forces> Rebel, Mandalore, Corellian_Corvette </Starting_Forces>
+        <!-- Mandalore Land Forces -->
+        <Starting_Forces> Rebel, Mandalore, R_Ground_Barracks </Starting_Forces>
+        <Starting_Forces> Rebel, Mandalore, Rebel_Ground_Mining_Facility</Starting_Forces>
+        <Starting_Forces> Rebel, Mandalore, Rebel_Infantry_Squad </Starting_Forces>
+    
+        <!-- NalHutta Space Forces -->
+        <Starting_Forces> Rebel, NalHutta, Rebel_Star_Base_2 </Starting_Forces>
+        <Starting_Forces> Rebel, NalHutta, Rebel_X-Wing_Squadron </Starting_Forces>
+        <Starting_Forces> Rebel, NalHutta, Nebulon_B_Frigate </Starting_Forces>
+        <Starting_Forces> Rebel, NalHutta, Corellian_Corvette </Starting_Forces>
+        <!-- Mandalore Land Forces -->
+        <Starting_Forces> Rebel, NalHutta, R_Ground_Barracks </Starting_Forces>
+        <Starting_Forces> Rebel, NalHutta, Rebel_Ground_Mining_Facility</Starting_Forces>
+        <Starting_Forces> Rebel, NalHutta, Rebel_Infantry_Squad </Starting_Forces>
+        <Starting_Forces> Rebel, NalHutta, Rebel_Light_Tank_Brigade </Starting_Forces>
+                
+        <!-- Ryloth Space Forces -->
+        <Starting_Forces> Rebel, Ryloth, Rebel_Star_Base_2 </Starting_Forces>
+        <Starting_Forces> Rebel, Ryloth, Rebel_X-Wing_Squadron </Starting_Forces>
+        <Starting_Forces> Rebel, Ryloth, Corellian_Corvette </Starting_Forces>
+        <!-- Ryloth Land Forces -->
+        <Starting_Forces> Rebel, Ryloth, R_Ground_Barracks </Starting_Forces>
+        <Starting_Forces> Rebel, Ryloth, Rebel_Ground_Mining_Facility</Starting_Forces>
+        <Starting_Forces> Rebel, Ryloth, Rebel_Infantry_Squad </Starting_Forces>
+        <Starting_Forces> Rebel, Ryloth, Rebel_Light_Tank_Brigade </Starting_Forces>
+        
+        <!-- Shola Space Forces -->
+        <Starting_Forces> Rebel, Shola, Rebel_Star_Base_2 </Starting_Forces>
+        <Starting_Forces> Rebel, Shola, Rebel_X-Wing_Squadron </Starting_Forces>
+        <Starting_Forces> Rebel, Shola, Corellian_Corvette </Starting_Forces>
+        <!-- Shola Land Forces -->
+        <Starting_Forces> Rebel, Shola, R_Ground_Barracks </Starting_Forces>
+        <Starting_Forces> Rebel, Shola, Rebel_Ground_Mining_Facility</Starting_Forces>
+        <Starting_Forces> Rebel, Shola, Rebel_Infantry_Squad </Starting_Forces>
+        <Starting_Forces> Rebel, Shola, Rebel_Light_Tank_Brigade </Starting_Forces>
+        
+        <!-- Tatooine Space Forces -->
+        <Starting_Forces> Rebel, Tatooine, Rebel_Star_Base_2 </Starting_Forces>
+        <Starting_Forces> Rebel, Tatooine, Rebel_X-Wing_Squadron </Starting_Forces>
+        <!-- Tatooine Land Forces -->
+        <Starting_Forces> Rebel, Tatooine, R_Ground_Barracks </Starting_Forces>
+        <Starting_Forces> Rebel, Tatooine, Rebel_Ground_Mining_Facility</Starting_Forces>
+        <Starting_Forces> Rebel, Tatooine, Rebel_Infantry_Squad </Starting_Forces>
+        <Starting_Forces> Rebel, Tatooine, Rebel_Light_Tank_Brigade </Starting_Forces>
+        
+        <!-- The_Maw Space Forces -->
+        <Starting_Forces> Rebel, The_Maw, Rebel_Star_Base_2 </Starting_Forces>
+        <Starting_Forces> Rebel, The_Maw, Rebel_X-Wing_Squadron </Starting_Forces>
+        <Starting_Forces> Rebel, The_Maw, Nebulon_B_Frigate </Starting_Forces>
+        <Starting_Forces> Rebel, The_Maw, Corellian_Corvette </Starting_Forces>
+
+
+
 		<!-- Empire Starting Forces -->
 
 		<Starting_Credits> Empire,  12000 </Starting_Credits>
