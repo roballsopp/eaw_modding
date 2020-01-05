@@ -2010,22 +2010,18 @@
 		
         <Home_Location> Rebel, Hoth </Home_Location>
         <Home_Location> Empire, Coruscant </Home_Location>
-        <Home_Location> Underworld, Hypori </Home_Location>
 
         <Starting_Active_Player> Rebel </Starting_Active_Player>
 
 		<Rebel_Story_Name>Story_Plots_Sandbox_56_Rebel.xml</Rebel_Story_Name>
         <Empire_Story_Name>Story_Plots_Empire_AI_Heroes_EXP.xml</Empire_Story_Name>
-        <Underworld_Story_Name>Story_Plots_Underworld_AI_Heroes.xml</Underworld_Story_Name>
         
         <AI_Player_Control> Empire, BasicEmpire </AI_Player_Control>
-		<AI_Player_Control> Underworld, AI_Player_Underworld</AI_Player_Control>
 		<AI_Player_Control> Pirates, None </AI_Player_Control>
 		
 		<Markup_Filename>Empire, DefaultGalacticHints </Markup_Filename>
 		<Markup_Filename>Pirates, DefaultGalacticHints </Markup_Filename>
 		<Markup_Filename>Rebel, DefaultGalacticHints </Markup_Filename>
-		<Markup_Filename>Underworld, DefaultGalacticHints </Markup_Filename>
 		
 		<Supports_Custom_Settings>True</Supports_Custom_Settings>
 		<Show_Completed_Tab>True</Show_Completed_Tab>
@@ -2556,16 +2552,6 @@
 		<Starting_Forces> Empire, Wayland, E_Ground_Barracks </Starting_Forces>
 		<Starting_Forces> Empire, Wayland, Imperial_Stormtrooper_Squad </Starting_Forces>
 		<Starting_Forces> Empire, Wayland, Imperial_Heavy_Scout_Squad </Starting_Forces>
-		
-
-		<!-- Underworld Starting Forces -->
-
-		<Starting_Credits> Underworld,  0 </Starting_Credits>
-		<Starting_Tech_Level> Underworld, 2 </Starting_Tech_Level>
-		<Max_Tech_Level> Underworld, 2 </Max_Tech_Level>
-
-        <!-- Vergesso Asteroids Space Forces -->
-        <Starting_Forces> Underworld, VergessoAsteroids, StarViper_Squadron </Starting_Forces>
 
     </Campaign>
 
@@ -2660,22 +2646,18 @@
 		
         <Home_Location> Rebel, Hoth </Home_Location>
         <Home_Location> Empire, Coruscant </Home_Location>
-        <Home_Location> Underworld, Hypori </Home_Location>
 
         <Starting_Active_Player> Empire </Starting_Active_Player>
 
 		<Rebel_Story_Name>Story_Plots_Rebel_AI_Heroes_EXP.xml</Rebel_Story_Name>
         <Empire_Story_Name>Story_Plots_Sandbox_56_Empire.xml</Empire_Story_Name>
-        <Underworld_Story_Name>Story_Plots_Underworld_AI_Heroes.xml</Underworld_Story_Name>
         
 		<AI_Player_Control> Rebel, BasicRebel </AI_Player_Control>
-		<AI_Player_Control> Underworld, AI_Player_Underworld </AI_Player_Control>
 		<AI_Player_Control> Pirates, None </AI_Player_Control>
 		
 		<Markup_Filename>Empire, DefaultGalacticHints </Markup_Filename>
 		<Markup_Filename>Pirates, DefaultGalacticHints </Markup_Filename>
 		<Markup_Filename>Rebel, DefaultGalacticHints </Markup_Filename>
-		<Markup_Filename>Underworld, DefaultGalacticHints </Markup_Filename>
 		
 		<Supports_Custom_Settings>True</Supports_Custom_Settings>
 		<Show_Completed_Tab>True</Show_Completed_Tab>
@@ -3165,15 +3147,6 @@
 		<Starting_Forces> Empire, Wayland, Imperial_Stormtrooper_Squad </Starting_Forces>
 		<Starting_Forces> Empire, Wayland, Imperial_Stormtrooper_Squad </Starting_Forces>
 		<Starting_Forces> Empire, Wayland, Imperial_Heavy_Scout_Squad </Starting_Forces>
-		
-		<!-- Underworld Starting Forces -->
-
-		<Starting_Credits> Underworld,  0 </Starting_Credits>
-		<Starting_Tech_Level> Underworld, 2 </Starting_Tech_Level>
-		<Max_Tech_Level> Underworld, 2 </Max_Tech_Level>
-
-		<!-- Fondor Space Forces -->
-        <Starting_Forces> Underworld, Fondor, StarViper_Squadron </Starting_Forces>
     </Campaign>
 
 
