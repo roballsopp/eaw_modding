@@ -2073,7 +2073,7 @@
 
 		<Starting_Credits> Rebel,  12000 </Starting_Credits>
 		<Starting_Tech_Level> Rebel, 1 </Starting_Tech_Level>
-		<Max_Tech_Level> Rebel, 4 </Max_Tech_Level>
+		<Max_Tech_Level> Rebel, 5 </Max_Tech_Level>
 		
 		<!-- Atzerri Space Forces -->
 		<Starting_Forces> Rebel, Atzerri, Rebel_Star_Base_2 </Starting_Forces>
@@ -2377,7 +2377,7 @@
 		
 		<!-- Empire Starting Forces -->
 
-		<Starting_Credits> Empire,  8000 </Starting_Credits>
+		<Starting_Credits> Empire,  20000 </Starting_Credits>
 		<Starting_Tech_Level> Empire, 2 </Starting_Tech_Level>
 		<Max_Tech_Level> Empire, 5 </Max_Tech_Level>
 		
@@ -2553,6 +2553,137 @@
 		<Starting_Forces> Empire, Wayland, Imperial_Stormtrooper_Squad </Starting_Forces>
 		<Starting_Forces> Empire, Wayland, Imperial_Heavy_Scout_Squad </Starting_Forces>
 
+		<!-- AlzocIII Space Forces -->
+        <Starting_Forces> Empire, AlzocIII, Empire_Star_Base_2 </Starting_Forces>
+        <Starting_Forces> Empire, AlzocIII, TIE_Scout_Squadron </Starting_Forces>
+        <Starting_Forces> Empire, AlzocIII, Acclamator_Assault_Ship </Starting_Forces>
+        <!-- AlzocIII Land Forces -->
+        <Starting_Forces> Empire, AlzocIII, E_Ground_Barracks </Starting_Forces>
+        <Starting_Forces> Empire, AlzocIII, Empire_Ground_Mining_Facility</Starting_Forces>
+        <Starting_Forces> Empire, AlzocIII, Imperial_Stormtrooper_Squad </Starting_Forces>
+        <Starting_Forces> Empire, AlzocIII, Imperial_Heavy_Scout_Squad </Starting_Forces>
+        
+        <!-- Bestine Space Forces -->
+        <Starting_Forces> Empire, Bestine, Empire_Star_Base_2 </Starting_Forces>
+        <Starting_Forces> Empire, Bestine, TIE_Scout_Squadron </Starting_Forces>
+        <Starting_Forces> Empire, Bestine, Acclamator_Assault_Ship </Starting_Forces>
+        <!-- Bestine Land Forces -->
+        <Starting_Forces> Empire, Bestine, E_Ground_Barracks </Starting_Forces>
+        <Starting_Forces> Empire, Bestine, Empire_Ground_Mining_Facility</Starting_Forces>
+        <Starting_Forces> Empire, Bestine, Imperial_Stormtrooper_Squad </Starting_Forces>
+        <Starting_Forces> Empire, Bestine, Imperial_Heavy_Scout_Squad </Starting_Forces>
+        
+        <!-- Bothawui Space Forces -->
+        <Starting_Forces> Empire, Bothawui, Empire_Star_Base_2 </Starting_Forces>
+        <Starting_Forces> Empire, Bothawui, TIE_Scout_Squadron </Starting_Forces>
+        <Starting_Forces> Empire, Bothawui, Acclamator_Assault_Ship </Starting_Forces>
+        <!-- Bothawui Land Forces -->
+        <Starting_Forces> Empire, Bothawui, E_Ground_Barracks </Starting_Forces>
+        <Starting_Forces> Empire, Bothawui, Empire_Ground_Mining_Facility</Starting_Forces>
+        <Starting_Forces> Empire, Bothawui, Imperial_Stormtrooper_Squad </Starting_Forces>
+        <Starting_Forces> Empire, Bothawui, Imperial_Heavy_Scout_Squad </Starting_Forces>
+        
+        <!-- Fondor Space Forces -->
+        <Starting_Forces> Empire, Fondor, Empire_Star_Base_2 </Starting_Forces>
+        <Starting_Forces> Empire, Fondor, TIE_Scout_Squadron </Starting_Forces>
+        <!-- Fondor Land Forces -->
+        <Starting_Forces> Empire, Fondor, E_Ground_Barracks </Starting_Forces>
+        <Starting_Forces> Empire, Fondor, Empire_Ground_Mining_Facility</Starting_Forces>
+        <Starting_Forces> Empire, Fondor, Imperial_Stormtrooper_Squad </Starting_Forces>
+        <Starting_Forces> Empire, Fondor, Imperial_Heavy_Scout_Squad </Starting_Forces>
+
+        <!-- Hypori Space Forces -->
+        <Starting_Forces> Empire, Hypori, Empire_Star_Base_3 </Starting_Forces>
+        <Starting_Forces> Empire, Hypori, TIE_Scout_Squadron </Starting_Forces>
+        <Starting_Forces> Empire, Hypori, Acclamator_Assault_Ship </Starting_Forces>
+        <!-- Hypori Land Forces -->
+        <Starting_Forces> Empire, Hypori, E_Ground_Barracks </Starting_Forces>
+        <Starting_Forces> Empire, Hypori, Empire_Ground_Mining_Facility</Starting_Forces>
+        <Starting_Forces> Empire, Hypori, Imperial_Stormtrooper_Squad </Starting_Forces>
+        <Starting_Forces> Empire, Hypori, Imperial_Heavy_Scout_Squad </Starting_Forces>
+        
+        <!-- Jabiim Space Forces -->
+        <Starting_Forces> Empire, Jabiim, Empire_Star_Base_2 </Starting_Forces>
+        <Starting_Forces> Empire, Jabiim, TIE_Scout_Squadron </Starting_Forces>
+        <!-- Jabiim Land Forces -->
+        <Starting_Forces> Empire, Jabiim, E_Ground_Barracks </Starting_Forces>
+        <Starting_Forces> Empire, Jabiim, Empire_Ground_Mining_Facility</Starting_Forces>
+        <Starting_Forces> Empire, Jabiim, Imperial_Stormtrooper_Squad </Starting_Forces>
+    
+        <!-- NalHutta Space Forces -->
+        <Starting_Forces> Empire, NalHutta, Empire_Star_Base_2 </Starting_Forces>
+        <Starting_Forces> Empire, NalHutta, TIE_Scout_Squadron </Starting_Forces>
+        <Starting_Forces> Empire, NalHutta, Acclamator_Assault_Ship </Starting_Forces>
+        <Starting_Forces> Empire, NalHutta, Acclamator_Assault_Ship </Starting_Forces>
+        <!-- Mandalore Land Forces -->
+        <Starting_Forces> Empire, NalHutta, E_Ground_Barracks </Starting_Forces>
+        <Starting_Forces> Empire, NalHutta, Empire_Ground_Mining_Facility</Starting_Forces>
+        <Starting_Forces> Empire, NalHutta, Imperial_Stormtrooper_Squad </Starting_Forces>
+        <Starting_Forces> Empire, NalHutta, Imperial_Heavy_Scout_Squad </Starting_Forces>
+        
+        <!-- Polus Space Forces -->
+        <Starting_Forces> Empire, Polus, Empire_Star_Base_2 </Starting_Forces>
+        <Starting_Forces> Empire, Polus, TIE_Scout_Squadron </Starting_Forces>
+        <!-- Polus Land Forces -->
+        <Starting_Forces> Empire, Polus, E_Ground_Barracks </Starting_Forces>
+        <Starting_Forces> Empire, Polus, Empire_Ground_Mining_Facility</Starting_Forces>
+        <Starting_Forces> Empire, Polus, Imperial_Stormtrooper_Squad </Starting_Forces>
+        <Starting_Forces> Empire, Polus, Imperial_Heavy_Scout_Squad </Starting_Forces>
+                
+        <!-- Ryloth Space Forces -->
+        <Starting_Forces> Empire, Ryloth, Empire_Star_Base_2 </Starting_Forces>
+        <Starting_Forces> Empire, Ryloth, TIE_Scout_Squadron </Starting_Forces>
+        <Starting_Forces> Empire, Ryloth, Acclamator_Assault_Ship </Starting_Forces>
+        <!-- Ryloth Land Forces -->
+        <Starting_Forces> Empire, Ryloth, E_Ground_Barracks </Starting_Forces>
+        <Starting_Forces> Empire, Ryloth, Empire_Ground_Mining_Facility</Starting_Forces>
+        <Starting_Forces> Empire, Ryloth, Imperial_Stormtrooper_Squad </Starting_Forces>
+        <Starting_Forces> Empire, Ryloth, Imperial_Heavy_Scout_Squad </Starting_Forces>
+        
+        <!-- Shola Space Forces -->
+        <Starting_Forces> Empire, Shola, Empire_Star_Base_2 </Starting_Forces>
+        <Starting_Forces> Empire, Shola, TIE_Scout_Squadron </Starting_Forces>
+        <Starting_Forces> Empire, Shola, Acclamator_Assault_Ship </Starting_Forces>
+        <!-- Shola Land Forces -->
+        <Starting_Forces> Empire, Shola, E_Ground_Barracks </Starting_Forces>
+        <Starting_Forces> Empire, Shola, Empire_Ground_Mining_Facility</Starting_Forces>
+        <Starting_Forces> Empire, Shola, Imperial_Stormtrooper_Squad </Starting_Forces>
+        <Starting_Forces> Empire, Shola, Imperial_Heavy_Scout_Squad </Starting_Forces>
+        
+        <!-- Taris Space Forces -->
+        <Starting_Forces> Empire, Taris, Empire_Star_Base_2 </Starting_Forces>
+        <Starting_Forces> Empire, Taris, TIE_Scout_Squadron </Starting_Forces>
+        <Starting_Forces> Empire, Taris, Acclamator_Assault_Ship </Starting_Forces>
+        <!-- Taris Land Forces -->
+        <Starting_Forces> Empire, Taris, E_Ground_Barracks </Starting_Forces>
+        <Starting_Forces> Empire, Taris, Empire_Ground_Mining_Facility</Starting_Forces>
+        <Starting_Forces> Empire, Taris, Imperial_Stormtrooper_Squad </Starting_Forces>
+        <Starting_Forces> Empire, Taris, Imperial_Heavy_Scout_Squad </Starting_Forces>
+        
+        <!-- Tatooine Space Forces -->
+        <Starting_Forces> Empire, Tatooine, Empire_Star_Base_2 </Starting_Forces>
+        <Starting_Forces> Empire, Tatooine, TIE_Scout_Squadron </Starting_Forces>
+        <!-- Tatooine Land Forces -->
+        <Starting_Forces> Empire, Tatooine, E_Ground_Barracks </Starting_Forces>
+        <Starting_Forces> Empire, Tatooine, Empire_Ground_Mining_Facility</Starting_Forces>
+        <Starting_Forces> Empire, Tatooine, Imperial_Stormtrooper_Squad </Starting_Forces>
+        <Starting_Forces> Empire, Tatooine, Imperial_Heavy_Scout_Squad </Starting_Forces>
+        
+        <!-- The_Maw Space Forces -->
+        <Starting_Forces> Empire, The_Maw, Empire_Star_Base_4 </Starting_Forces>
+        <Starting_Forces> Empire, The_Maw, TIE_Scout_Squadron </Starting_Forces>
+        <Starting_Forces> Empire, The_Maw, Acclamator_Assault_Ship </Starting_Forces>
+        <Starting_Forces> Empire, The_Maw, Acclamator_Assault_Ship </Starting_Forces>
+        
+        <!-- Thyferra Space Forces -->
+        <Starting_Forces> Empire, Thyferra, Empire_Star_Base_2 </Starting_Forces>
+        <Starting_Forces> Empire, Thyferra, TIE_Scout_Squadron </Starting_Forces>
+        <!-- Thyferra Land Forces -->
+        <Starting_Forces> Empire, Thyferra, E_Ground_Barracks </Starting_Forces>
+        <Starting_Forces> Empire, Thyferra, Empire_Ground_Mining_Facility</Starting_Forces>
+        <Starting_Forces> Empire, Thyferra, Imperial_Stormtrooper_Squad </Starting_Forces>
+        <Starting_Forces> Empire, Thyferra, Imperial_Heavy_Scout_Squad </Starting_Forces>
+
     </Campaign>
 
 
@@ -2706,9 +2837,9 @@
 
 		<!-- Rebel Starting Forces -->
 
-		<Starting_Credits> Rebel,  8000 </Starting_Credits>
+		<Starting_Credits> Rebel,  20000 </Starting_Credits>
 		<Starting_Tech_Level> Rebel, 1 </Starting_Tech_Level>
-		<Max_Tech_Level> Rebel, 4 </Max_Tech_Level>
+		<Max_Tech_Level> Rebel, 5 </Max_Tech_Level>
 		
 		<!-- Atzerri Space Forces -->
 		<Starting_Forces> Rebel, Atzerri, Rebel_Star_Base_2 </Starting_Forces>
