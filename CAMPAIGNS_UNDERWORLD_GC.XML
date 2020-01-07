@@ -3302,7 +3302,7 @@
 		<Starting_Forces> Empire, Fresia, Imperial_Heavy_Scout_Squad </Starting_Forces>
 		
 		<!-- Ilum Space Forces -->
-		<Starting_Forces> Empire, Ilum, Empire_Star_Base_2 </Starting_Forces>
+		<Starting_Forces> Empire, Ilum, Empire_Star_Base_1 </Starting_Forces>
 		<Starting_Forces> Empire, Ilum, TIE_Scout_Squadron </Starting_Forces>
 		<Starting_Forces> Empire, Ilum, Broadside_Class_Cruiser </Starting_Forces>
 		<Starting_Forces> Empire, Ilum, Acclamator_Assault_Ship </Starting_Forces>
@@ -3384,6 +3384,78 @@
 		<Starting_Forces> Empire, Wayland, Imperial_Stormtrooper_Squad </Starting_Forces>
 		<Starting_Forces> Empire, Wayland, Imperial_Stormtrooper_Squad </Starting_Forces>
 		<Starting_Forces> Empire, Wayland, Imperial_Heavy_Scout_Squad </Starting_Forces>
+
+		<!-- Thyferra Space Forces -->
+		<Starting_Forces> Empire, Thyferra, Empire_Star_Base_2 </Starting_Forces>
+		<Starting_Forces> Empire, Thyferra, TIE_Scout_Squadron </Starting_Forces>
+		<Starting_Forces> Empire, Thyferra, Broadside_Class_Cruiser </Starting_Forces>
+		<Starting_Forces> Empire, Thyferra, Acclamator_Assault_Ship </Starting_Forces>
+		<!-- Thyferra Land Forces -->
+		<Starting_Forces> Empire, Thyferra, E_Ground_Barracks </Starting_Forces>
+		<Starting_Forces> Empire, Thyferra, Empire_Ground_Mining_Facility </Starting_Forces>
+		<Starting_Forces> Empire, Thyferra, Imperial_Stormtrooper_Squad </Starting_Forces>
+		<Starting_Forces> Empire, Thyferra, Imperial_Stormtrooper_Squad </Starting_Forces>
+		<Starting_Forces> Empire, Thyferra, Imperial_Heavy_Scout_Squad </Starting_Forces>
+
+		<!-- Fondor Space Forces -->
+		<Starting_Forces> Empire, Fondor, Empire_Star_Base_2 </Starting_Forces>
+		<Starting_Forces> Empire, Fondor, TIE_Scout_Squadron </Starting_Forces>
+		<Starting_Forces> Empire, Fondor, Broadside_Class_Cruiser </Starting_Forces>
+		<Starting_Forces> Empire, Fondor, Acclamator_Assault_Ship </Starting_Forces>
+		<!-- Fondor Land Forces -->
+		<Starting_Forces> Empire, Fondor, E_Ground_Barracks </Starting_Forces>
+		<Starting_Forces> Empire, Fondor, Empire_Ground_Mining_Facility </Starting_Forces>
+		<Starting_Forces> Empire, Fondor, Imperial_Stormtrooper_Squad </Starting_Forces>
+		<Starting_Forces> Empire, Fondor, Imperial_Stormtrooper_Squad </Starting_Forces>
+		<Starting_Forces> Empire, Fondor, Imperial_Heavy_Scout_Squad </Starting_Forces>
+
+		<!-- Jabiim Space Forces -->
+		<Starting_Forces> Empire, Jabiim, Empire_Star_Base_2 </Starting_Forces>
+		<Starting_Forces> Empire, Jabiim, TIE_Scout_Squadron </Starting_Forces>
+		<Starting_Forces> Empire, Jabiim, Broadside_Class_Cruiser </Starting_Forces>
+		<Starting_Forces> Empire, Jabiim, Acclamator_Assault_Ship </Starting_Forces>
+		<!-- Jabiim Land Forces -->
+		<Starting_Forces> Empire, Jabiim, E_Ground_Barracks </Starting_Forces>
+		<Starting_Forces> Empire, Jabiim, Empire_Ground_Mining_Facility </Starting_Forces>
+		<Starting_Forces> Empire, Jabiim, Imperial_Stormtrooper_Squad </Starting_Forces>
+		<Starting_Forces> Empire, Jabiim, Imperial_Stormtrooper_Squad </Starting_Forces>
+		<Starting_Forces> Empire, Jabiim, Imperial_Heavy_Scout_Squad </Starting_Forces>
+
+		<!-- Taris Space Forces -->
+		<Starting_Forces> Empire, Taris, Empire_Star_Base_2 </Starting_Forces>
+		<Starting_Forces> Empire, Taris, TIE_Scout_Squadron </Starting_Forces>
+		<Starting_Forces> Empire, Taris, Broadside_Class_Cruiser </Starting_Forces>
+		<Starting_Forces> Empire, Taris, Acclamator_Assault_Ship </Starting_Forces>
+		<!-- Taris Land Forces -->
+		<Starting_Forces> Empire, Taris, E_Ground_Barracks </Starting_Forces>
+		<Starting_Forces> Empire, Taris, Empire_Ground_Mining_Facility </Starting_Forces>
+		<Starting_Forces> Empire, Taris, Imperial_Stormtrooper_Squad </Starting_Forces>
+		<Starting_Forces> Empire, Taris, Imperial_Stormtrooper_Squad </Starting_Forces>
+		<Starting_Forces> Empire, Taris, Imperial_Heavy_Scout_Squad </Starting_Forces>
+
+		<!-- Polus Space Forces -->
+		<Starting_Forces> Empire, Polus, Empire_Star_Base_2 </Starting_Forces>
+		<Starting_Forces> Empire, Polus, TIE_Scout_Squadron </Starting_Forces>
+		<Starting_Forces> Empire, Polus, Broadside_Class_Cruiser </Starting_Forces>
+		<Starting_Forces> Empire, Polus, Acclamator_Assault_Ship </Starting_Forces>
+		<!-- Polus Land Forces -->
+		<Starting_Forces> Empire, Polus, E_Ground_Barracks </Starting_Forces>
+		<Starting_Forces> Empire, Polus, Empire_Ground_Mining_Facility </Starting_Forces>
+		<Starting_Forces> Empire, Polus, Imperial_Stormtrooper_Squad </Starting_Forces>
+		<Starting_Forces> Empire, Polus, Imperial_Stormtrooper_Squad </Starting_Forces>
+		<Starting_Forces> Empire, Polus, Imperial_Heavy_Scout_Squad </Starting_Forces>
+
+		<!-- Bestine Space Forces -->
+		<Starting_Forces> Empire, Bestine, Empire_Star_Base_2 </Starting_Forces>
+		<Starting_Forces> Empire, Bestine, TIE_Scout_Squadron </Starting_Forces>
+		<Starting_Forces> Empire, Bestine, Broadside_Class_Cruiser </Starting_Forces>
+		<Starting_Forces> Empire, Bestine, Acclamator_Assault_Ship </Starting_Forces>
+		<!-- Bestine Land Forces -->
+		<Starting_Forces> Empire, Bestine, E_Ground_Barracks </Starting_Forces>
+		<Starting_Forces> Empire, Bestine, Empire_Ground_Mining_Facility </Starting_Forces>
+		<Starting_Forces> Empire, Bestine, Imperial_Stormtrooper_Squad </Starting_Forces>
+		<Starting_Forces> Empire, Bestine, Imperial_Stormtrooper_Squad </Starting_Forces>
+		<Starting_Forces> Empire, Bestine, Imperial_Heavy_Scout_Squad </Starting_Forces>
     </Campaign>
 
 
